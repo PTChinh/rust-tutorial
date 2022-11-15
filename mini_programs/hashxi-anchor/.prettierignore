@@ -1,9 +1,8 @@
-target
 
-# JetBrain IDEs
-.idea
 .anchor
 .DS_Store
-**/*.rs.bk
+target
 node_modules
+dist
+build
 test-ledger
